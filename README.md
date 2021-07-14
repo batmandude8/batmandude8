@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @batmandude8
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning Python, and Django.
 
 <!---
