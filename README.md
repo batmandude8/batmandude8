@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @batmandude8
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Python, and Django.
+- 🌱 I’m currently learning Python, Django, JS, and React.
 
 <!---
 batmandude8/batmandude8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
